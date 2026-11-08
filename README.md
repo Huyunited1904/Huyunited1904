@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Huy 👋
 
-<!--
-**Huyunited1904/Huyunited1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Hanoi University of Science and Technology (HUST), Vietnam.
 
-Here are some ideas to get you started:
+I'm focusing on backend development with Node.js, Express, and MySQL, with a long-term interest in DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- **Backend:** Node.js, Express
+- **Database:** MySQL
+- **Frontend:** React
+- **Languages:** JavaScript, Java, C++
+- **Tools:** Git, GitHub, Postman
+
+### Current work
+- Building an e-commerce application to practice API design, authentication, and database integration.
+- Strengthening my knowledge of software design and backend systems.
+- Learning Japanese and working toward JLPT N2.
+
+### Featured project
+[E-commerce Project](https://github.com/Huyunited1904/E-commerce-project)  
+A personal web development project built with React, Node.js, Express, and MySQL. Currently under development.
